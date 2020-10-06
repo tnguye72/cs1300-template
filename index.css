@@ -1,1 +1,24 @@
 /* Put your style information here! */
+  h1, h3{
+    color: tomato;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+    color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+
+ 
+  p, li {
+    color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  div {
+      width: 1000px;
+  }
+
+ 
+  
